@@ -1,0 +1,24 @@
+.wrapper {
+    display: block;
+    width: 40%;
+    margin: 14% auto;
+}
+select{
+    margin: 10px;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    background-color: black;
+    width:100%;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+.error{
+    color: red;
+    margin-left: 12px;
+}
+.container{
+    margin-top: 20px;
+}
