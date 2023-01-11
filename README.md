@@ -4,18 +4,16 @@
 
 This is a minimal project used to vote candidates of different constituencies and see there end results.
 
-## Project config and setup commands
+## Project config
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- **[PHP 7.4.33]**
+- **[Mysql Ver 15.1]**
+
+## Project Setup Commands
+
+- **[After cloning the project from github repository follow the below points]**
+- **[Run the composer install command to install the vendor folder i.e., the project dependencies]**
+- **[Rename the .env.example file to .env file and add the database details]**
+- **[Run the "php artisan key:generate" command]**
+- **[Run the "php artisan migrate" command]**
+- **[Run the "php artisan serve" command to run the server]**

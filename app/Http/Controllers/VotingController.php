@@ -62,7 +62,7 @@ class VotingController extends Controller
 
     public function getDetails(){
         try {
-            $details = Voting::all();
+            $details = Voting::orderBy('constituency')->get();
             return view('voting.details', ['details' => $details]);
         } catch (\Throwable $th) {
             throw $th;
