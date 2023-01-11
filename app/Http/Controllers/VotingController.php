@@ -63,6 +63,9 @@ class VotingController extends Controller
     public function getDetails(){
         try {
             $details = Voting::orderBy('constituency')->get();
+            if($details->isEmpty()){
+                $details = [];
+            }
             return view('voting.details', ['details' => $details]);
         } catch (\Throwable $th) {
             throw $th;
