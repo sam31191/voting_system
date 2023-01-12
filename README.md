@@ -23,3 +23,4 @@ This is a minimal project used to vote candidates of different constituencies an
 
 ![voting_index](https://user-images.githubusercontent.com/25411308/212110362-f9b34c7d-369e-499d-ad85-41a586435ef1.png)
 ![voting_result](https://user-images.githubusercontent.com/25411308/212110431-f71c5c87-ea9b-4421-b4ad-d8d0c17f4750.png)
+![db_schema](https://user-images.githubusercontent.com/25411308/212111672-024fe0d8-0ddd-4a58-b771-83d60661a05f.png)
