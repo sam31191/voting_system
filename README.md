@@ -17,3 +17,9 @@ This is a minimal project used to vote candidates of different constituencies an
 - **[Run the "php artisan key:generate" command]**
 - **[Run the "php artisan migrate" command]**
 - **[Run the "php artisan serve" command to run the server]**
+
+
+## Project Page Images
+
+![voting_index](https://user-images.githubusercontent.com/25411308/212110362-f9b34c7d-369e-499d-ad85-41a586435ef1.png)
+![voting_result](https://user-images.githubusercontent.com/25411308/212110431-f71c5c87-ea9b-4421-b4ad-d8d0c17f4750.png)
